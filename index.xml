@@ -4,7 +4,7 @@
     <head>
       <meta charset='utf-8'/>
     <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
-    <title>Liên hệ quảng cáo| kazcloud.site </title>
+    <title></title>
     <link href='https://i.imgur.com/c8s8Kfj.jpeg' rel='icon'/>
     <meta content='khacviet ,deptraivocungtan, dep trai vl   ' name='keywords'/>
     <meta contect='Profile Khac Viet  ~' name='og:title'/>
@@ -204,6 +204,18 @@ background-color: transparent !important;
         <img alt='' class='tc-img' src='' srcset=''/>
       </div>
     </div>
+		  <script>
+    let originalTitle = "Wellcome to";
+    let blinkTitle = "Khac Viet Portfolio Website";
+    let isOriginal = true;
+    
+    setInterval(() => {
+        document.title = isOriginal ? blinkTitle : originalTitle;
+        isOriginal = !isOriginal;
+    }, 1000);
+    
+     </script>
+    
       <script src='https://dev.htpn.vn/upload/script-v01.js'/>
   <script src='https://dev.htpn.vn/upload/cute-alert-v1.js'/>
         <b:section id='honglien'/>
