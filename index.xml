@@ -5,12 +5,12 @@
       <meta charset='utf-8'/>
     <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
     <title></title>
-    <link href='https://i.imgur.com/c8s8Kfj.jpeg' rel='icon'/>
+    <link href='https://khacviet.is-a.dev/img/avatar.png' rel='icon'/>
     <meta content='khacviet ,deptraivocungtan, dep trai vl   ' name='keywords'/>
     <meta contect='Profile Khac Viet  ~' name='og:title'/>
     <meta contect='website' name='og:type'/>
     <meta content='vi-VN' property='og:locale'/>
-    <meta contect='https://i.imgur.com/c8s8Kfj.jpeg' name='og:image'/>
+    <meta contect='https://khacviet.is-a.dev/img/avatar.png' name='og:image'/>
     <meta contect='Liên hệ quảng cáo Kazcloud.site ' name='og:description'/>
     <meta contect='Khac Viet' name='og:site_name'/>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'/>
@@ -70,7 +70,8 @@ background-color: transparent !important;
     <div class='main'>
       <div class='left' onclick='left()'>
         <div class='left-main'>
-          <div class='logo' style='background-image: url(https://i.imgur.com/c8s8Kfj.jpeg);'>
+          <div class='logo' style='background-image: url(https://khacviet.is-a.dev/img/avatar.png);'>
+          <!-- <img class='logo' src="https://khacviet.is-a.dev/img/avatar.png"> -->
             <img alt='Khung viền' src='https://files.catbox.moe/7k3isz.png' style='position: absolute;top:-15%;left:-10%;width: 120%; aspect-ratio: 1/1;'/>
           </div>
           <div class='left-div left-des'>
@@ -109,7 +110,8 @@ background-color: transparent !important;
             <div class='left-div-item'>
               <svg class='icon' height='20px' p-id='2474' t='1705773906032' version='1.1' viewBox='0 0 1024 1024' width='20px' xmlns='http://www.w3.org/2000/svg'>
                 <path d='M729.6 234.666667H294.4V157.866667a51.2 51.2 0 0 1 51.2-51.2h332.8a51.2 51.2 0 0 1 51.2 51.2v76.8z m179.2 51.2a51.2 51.2 0 0 1 51.2 51.2v512a51.2 51.2 0 0 1-51.2 51.2H115.2a51.2 51.2 0 0 1-51.2-51.2v-512a51.2 51.2 0 0 1 51.2-51.2h793.557333z m-768 172.032c0 16.384 13.312 29.696 29.696 29.696h683.008a29.696 29.696 0 1 0 0-59.392H170.410667a29.696 29.696 0 0 0-29.696 29.696z m252.416 118.784c0 16.384 13.312 29.696 29.696 29.696h178.176a29.696 29.696 0 1 0 0-59.392H422.912a29.738667 29.738667 0 0 0-29.696 29.696z' fill='#666666' p-id='2475'/>
-              </svg>
+              </svg> Chuẩn bị thất nghiệp
+
             </div>
           </div>
           <!-- <div class="left-div left-tag"><div class="left-tag-item">Tag</div></div> -->
@@ -118,14 +120,14 @@ background-color: transparent !important;
       </div>
       <div class='right'>
         <header>
-          <div class='index-logo' style='background-image: url();'>
+          <div class='index-logo' style='background-image: url(https://khacviet.is-a.dev/img/avatar.png);'>
             <img alt='Khung viền' src='https://files.catbox.moe/7k3isz.png' style='position: absolute;top:-15%;left:-10%;width: 120%; aspect-ratio: 1/1;'/>
           </div>
           <div class='welcome'>Hello, I&#39;m <span class='gradientText'>Khac Viet</span>
           </div>
           <div class='description'>👦 <span class='purpleText'> Pull Snack</span> CatGPT Developer </div>
-          <div class='description'>📝 No <span class='purpleText textBackground'>pay</span>, no <span class='purpleText textBackground'>code</span> . </div>
-          <div class='iconContainer'>
+<!--           <div class='description'>📝 No <span class='purpleText textBackground'>pay</span>, no <span class='purpleText textBackground'>code</span> . </div>-->
+          <div class='iconContainer'> 
             <a class='iconItem' href='https://www.facebook.com/AlexanderVizky/' target='_blank'>
               <svg fill='#000000' height='22px' version='1.1' viewBox='0 0 48 48' width='22px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
                 <g id='SVGRepo_bgCarrier' stroke-width='0'/>
@@ -142,7 +144,7 @@ background-color: transparent !important;
             </a>
             <!---->
             <!---->
-            <a class='iconItem' href='https://tiktok.co/khacviet.website' target='_blank'>
+            <a class='iconItem' href='https://tiktok.com/khacviet.website' target='_blank'>
               <svg fill='#000000' height='22px' viewBox='0 0 24 24' width='22px' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'>
                 <g id='SVGRepo_bgCarrier' stroke-width='0'/>
                 <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
@@ -153,9 +155,34 @@ background-color: transparent !important;
               <div class='iconTip'>Tiktok</div>
             </a>
             <!---->
-
+      <a class='iconItem' href='https://locket.cam/khacviet.0000' target='_blank'>
+              <svg fill='#000000' height='22px' viewBox='0 0 24 24' width='22px' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'>
+                <g id='SVGRepo_bgCarrier' stroke-width='0'/>
+                <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
+                <g id='SVGRepo_iconCarrier'>
+<path 
+  d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" 
+  fill="#ff0000" 
+/>                </g>
+              </svg>
+              <div class='iconTip'>Locket</div>
+            </a>
             <!---->
-            <a class='switch' href='javascript:void(0)'>
+              <a class='iconItem' href='https://khacviet.is-a.dev/img/wc.jpg' target='_blank'>
+              <svg fill='#000000' height='22px' viewBox='0 0 24 24' width='22px' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'>
+                <g id='SVGRepo_bgCarrier' stroke-width='0'/>
+                <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
+                <g id='SVGRepo_iconCarrier'>
+  <path 
+    d="M8.5 3.5C4.36 3.5 1 6.32 1 9.75c0 1.89 1.22 3.57 3.13 4.67-.17.58-.56 1.68-.62 1.9-.08.3.13.58.42.58.14 0 .28-.05.4-.14 1.8-1.26 2.88-1.5 3.34-1.58.45.06 1.53.32 3.34 1.58.12.09.26.14.4.14.29 0 .5-.28.42-.58-.06-.22-.45-1.32-.62-1.9C15.78 13.32 17 11.64 17 9.75c0-3.43-3.36-6.25-8.5-6.25zm0 10c-2.76 0-5-1.9-5-4.25S5.74 5 8.5 5s5 1.9 5 4.25-2.24 4.25-5 4.25zm6.5 1.5c-.17 0-.34.02-.5.05.34.58.5 1.2.5 1.85 0 1.38-1.12 2.5-2.5 2.5-.65 0-1.27-.16-1.85-.5-.03.16-.05.33-.05.5 0 1.38 1.12 2.5 2.5 2.5s2.5-1.12 2.5-2.5-1.12-2.5-2.5-2.5z" 
+    fill="#07C160" 
+  />
+             </g>
+              </svg>
+              <div class='iconTip'>Wechat</div>
+            </a>
+            <!---->
+            <a class='switch' href='javascript:void(0)' style="opacity: 0;">
               <div class='onoffswitch'>
 <input checked='checked' class='onoffswitch-checkbox' id='myonoffswitch' name='onoffswitch' type='checkbox'>
                 <label class='onoffswitch-label' for='myonoffswitch'>
@@ -204,20 +231,21 @@ background-color: transparent !important;
         <img alt='' class='tc-img' src='' srcset=''/>
       </div>
     </div>
+		  <script>
+    let originalTitle = "Wellcome to";
+    let blinkTitle = "Khac Viet Portfolio Website";
+    let isOriginal = true;
+    
+    setInterval(() => {
+        document.title = isOriginal ? blinkTitle : originalTitle;
+        isOriginal = !isOriginal;
+    }, 1000);
+    
+     </script>
+    
       <script src='https://dev.htpn.vn/upload/script-v01.js'/>
   <script src='https://dev.htpn.vn/upload/cute-alert-v1.js'/>
         <b:section id='honglien'/>
-        <script>
-        let originalTitle = "My profile";
-let blinkTitle = "Khac Viet Ưebsite";
-let isOriginal = true;
-
-setInterval(() => {
-    document.title = isOriginal ? blinkTitle : originalTitle;
-    isOriginal = !isOriginal;
-}, 1000);
-
-        </script>
     </body>
-    
+    <!-- Kết thúc phần hiển thị -->
 </html>
