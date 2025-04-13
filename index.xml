@@ -110,7 +110,7 @@ background-color: transparent !important;
             <div class='left-div-item'>
               <svg class='icon' height='20px' p-id='2474' t='1705773906032' version='1.1' viewBox='0 0 1024 1024' width='20px' xmlns='http://www.w3.org/2000/svg'>
                 <path d='M729.6 234.666667H294.4V157.866667a51.2 51.2 0 0 1 51.2-51.2h332.8a51.2 51.2 0 0 1 51.2 51.2v76.8z m179.2 51.2a51.2 51.2 0 0 1 51.2 51.2v512a51.2 51.2 0 0 1-51.2 51.2H115.2a51.2 51.2 0 0 1-51.2-51.2v-512a51.2 51.2 0 0 1 51.2-51.2h793.557333z m-768 172.032c0 16.384 13.312 29.696 29.696 29.696h683.008a29.696 29.696 0 1 0 0-59.392H170.410667a29.696 29.696 0 0 0-29.696 29.696z m252.416 118.784c0 16.384 13.312 29.696 29.696 29.696h178.176a29.696 29.696 0 1 0 0-59.392H422.912a29.738667 29.738667 0 0 0-29.696 29.696z' fill='#666666' p-id='2475'/>
-              </svg> Chuẩn bị thất nghiệp
+              </svg> None
 
             </div>
           </div>
@@ -182,6 +182,17 @@ background-color: transparent !important;
               <div class='iconTip'>Wechat</div>
             </a>
             <!---->
+              <a class='iconItem' href='https://t.me/stalinxhook' target='_blank'>
+              <svg fill='#000000' height='22px' viewBox='0 0 24 24' width='22px' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'>
+                <g id='SVGRepo_bgCarrier' stroke-width='0'/>
+                <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
+                <g id='SVGRepo_iconCarrier'>
+<path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z" fill="#0088cc"/>
+            </g>
+              </svg>
+              <div class='iconTip'>Telegram</div>
+            </a>
+            <!---->
             <a class='switch' href='javascript:void(0)' style="opacity: 0;">
               <div class='onoffswitch'>
 <input checked='checked' class='onoffswitch-checkbox' id='myonoffswitch' name='onoffswitch' type='checkbox'>
@@ -243,7 +254,7 @@ background-color: transparent !important;
     
      </script>
     
-      <script src='https://dev.htpn.vn/upload/script-v01.js'/>
+      <script src='/script-v01.js'/>
   <script src='https://dev.htpn.vn/upload/cute-alert-v1.js'/>
         <b:section id='honglien'/>
     </body>
