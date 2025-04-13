@@ -5,12 +5,12 @@
       <meta charset='utf-8'/>
     <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
     <title></title>
-    <link href='https://khacviet.is-a.dev/img/avatar.png' rel='icon'/>
+    <link href='./img/avatar.png' rel='icon'/>
     <meta content='khacviet ,deptraivocungtan, dep trai vl   ' name='keywords'/>
     <meta contect='Profile Khac Viet  ~' name='og:title'/>
     <meta contect='website' name='og:type'/>
     <meta content='vi-VN' property='og:locale'/>
-    <meta contect='https://khacviet.is-a.dev/img/avatar.png' name='og:image'/>
+    <meta contect='./img/avatar.jpg' name='og:image'/>
     <meta contect='Liên hệ quảng cáo Kazcloud.site ' name='og:description'/>
     <meta contect='Khac Viet' name='og:site_name'/>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'/>
@@ -70,8 +70,8 @@ background-color: transparent !important;
     <div class='main'>
       <div class='left' onclick='left()'>
         <div class='left-main'>
-          <div class='logo' style='background-image: url(https://khacviet.is-a.dev/img/avatar.png);'>
-          <!-- <img class='logo' src="https://khacviet.is-a.dev/img/avatar.png"> -->
+          <div class='logo' style='background-image: url(./img/avatar.jpg);'>
+          <!-- <img class='logo' src="./img/avatar.png"> -->
             <img alt='Khung viền' src='https://files.catbox.moe/7k3isz.png' style='position: absolute;top:-15%;left:-10%;width: 120%; aspect-ratio: 1/1;'/>
           </div>
           <div class='left-div left-des'>
@@ -120,7 +120,7 @@ background-color: transparent !important;
       </div>
       <div class='right'>
         <header>
-          <div class='index-logo' style='background-image: url(https://khacviet.is-a.dev/img/avatar.png);'>
+          <div class='index-logo' style='background-image: url(./img/avatar.png);'>
             <img alt='Khung viền' src='https://files.catbox.moe/7k3isz.png' style='position: absolute;top:-15%;left:-10%;width: 120%; aspect-ratio: 1/1;'/>
           </div>
           <div class='welcome'>Hello, I&#39;m <span class='gradientText'>Khac Viet</span>
@@ -168,7 +168,7 @@ background-color: transparent !important;
               <div class='iconTip'>Locket</div>
             </a>
             <!---->
-              <a class='iconItem' href='https://khacviet.is-a.dev/img/wc.jpg' target='_blank'>
+              <a class='iconItem' href='./img/wc.jpg' target='_blank'>
               <svg fill='#000000' height='22px' viewBox='0 0 24 24' width='22px' xml:space='preserve' xmlns='http://www.w3.org/2000/svg'>
                 <g id='SVGRepo_bgCarrier' stroke-width='0'/>
                 <g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'/>
